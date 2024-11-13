@@ -8,7 +8,7 @@ I’m a person who has a strong passinate on programming.Now, I am studying ICT 
 
 *   🌍  I'm based in Thailand
 *   ✉️  You can contact me at [jaimain671@gmail.com](mailto:jaimain671@gmail.com)
-*   🧠  I'm learning Still learning more about MERN stack and React native and I am going to learn more about Docker and Typescript
+*   🧠  I'm still learning more about MERN stack and React native and I am going to learn more about Docker and Typescript
 *   🤝  I'm open to collaborating on Freelance and Internship
 *   ⚡  I am friendly and fast learner and also has strong communication skill
 ### Skills
