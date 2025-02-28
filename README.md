@@ -1,4 +1,5 @@
 # 💫 About Me:
+# 👋 My name is Sai Naw Main but you can call me Lwant
 I’m a person who has a strong passinate on programming.Now, I am studying ICT at Rangsit University in Thailand.<br><br> 🌍  Currently I am in Thailand.<br> ✉️  You can contact me at [jaimain671@gmail.com](mailto:jaimain671@gmail.com)<br> 🧠  I'm still learning more about MERN stack and I am going to learn more about Typescript<br> 🤝  I'm open to collaborate on Freelance and Internship<br> ⚡  I am friendly and fast learner and also has strong communication skill
 
 
