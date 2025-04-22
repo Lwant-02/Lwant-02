@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Sai Naw Main but you can just call Lwant.</h3>
+<h3 align="left">My name is Sai Naw Main but you can just call me Lwant.</h3>
 
 ###
 
