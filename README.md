@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Sai Naw Main but you can just call me Lwant.</h3>
+<h3 align="left">My name is Sai Naw Main but you can just call Lwant.</h3>
 
 ###
 
@@ -54,6 +54,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
 ###
