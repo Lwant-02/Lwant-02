@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi, I’m Sai Naw Main, and you can call me Lwant! I’m 22-year-old from Myanmar, passionate about technology, music, and continuous learning. I enjoy playing the guitar and coding, both of which allow me to express my creativity in different ways. I love solving problems, building projects, and exploring new technologies. My journey in coding started with python and web development, and I’m always eager to learn more about React, Next.js, and backend development with Express.js. I’m known for being friendly and approachable, with strong soft skills like good communication and fast learning. I enjoy collaborating with others, sharing knowledge, and growing both personally and professionally. My goal is to become a skilled full-stack developer and work on projects that make an impact. Whether it’s building web applications or contributing to open-source, I’m always up for a challenge.</p>
+<p align="left">Hi, I’m Sai Naw Main (Lwant), a 22-year-old aspiring full-stack developer from Myanmar and currently based in Thailand. I have hands-on experience with JavaScript, TypeScript, React, Next.js, Node.js and Express.js, and I enjoy solving problems and building impactful projects. I’m a fast learner with strong communication skills and a passion for collaboration. I’m currently seeking internship or job opportunities where I can contribute, grow, and expand my skills in web development.</p>
 
 ###
 
