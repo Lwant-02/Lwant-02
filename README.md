@@ -13,7 +13,7 @@
 <p align="left">Hi, I’m Sai Naw Main (Lwant), a 22-year-old aspiring full-stack developer and currently based in Thailand. I have hands-on experience with JavaScript, TypeScript, React, Next.js, Node.js and Express.js, and I enjoy solving problems and building impactful projects. I’m a fast learner with strong communication skills and a passion for collaboration. I’m currently seeking internship or job opportunities where I can contribute, grow, and expand my skills in web development.
 
 ###
--🔭 Currently I am learning Web3 - Blockchain</p>
+
 
 <h2 align="left">I code with</h2>
 
