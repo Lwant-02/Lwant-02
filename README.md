@@ -14,6 +14,31 @@
 
 ###
 
+## 🔭 Currently working on
+
+### LikDai – Shan Typing Tutor  
+A web-based typing tutor designed to help users practice and improve their **Shan typing skills**.
+
+🌐 Live Demo: https://likdai.shantype.com
+
+---
+
+## ✨ About the Project
+
+LikDai focuses on:
+- ⌨️ Improving typing speed and accuracy  
+- 📚 Supporting Shan language learning  
+- 🎯 Providing a simple and user-friendly experience  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building apps that solve real community problems and improve user experience 🚀
+
+
+###
+
 
 <h2 align="left">I code with</h2>
 
