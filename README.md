@@ -19,7 +19,7 @@
 ### LikDai – Shan Typing Tutor  
 A web-based typing tutor designed to help users practice and improve their **Shan typing skills**.
 
-🌐 Live Demo: https://likdai.shantype.com
+🌐 Live Now: https://likdai.shantype.com
 
 ---
 
