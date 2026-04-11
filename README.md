@@ -28,7 +28,8 @@ A web-based typing tutor designed to help users practice and improve their **Sha
 LikDai focuses on:
 - ⌨️ Improving typing speed and accuracy  
 - 📚 Supporting Shan language learning  
-- 🎯 Providing a simple and user-friendly experience  
+- 🎯 Providing a simple and user-friendly experience
+- 💻 Offline support (PWA)
 
 ---
 
