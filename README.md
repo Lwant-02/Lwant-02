@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Sai Naw Main and you can call Lwant.</h3>
+<h3 align="left">My name is Sai Naw Main but you can just call me Lwant.</h3>
 
 ###
 
@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">Hi, I’m Sai Naw Main (Lwant), a 22-year-old aspiring full-stack developer and currently based in Thailand. I have hands-on experience with JavaScript, TypeScript, React, Next.js, Node.js and Express.js, and I enjoy solving problems and building impactful projects. I’m a fast learner with strong communication skills and a passion for collaboration. I’m currently seeking internship or job opportunities where I can contribute, grow, and expand my skills in web development.
+<p align="left">Results-driven Full-Stack Developer with 1 year of experience building applications using the
+JavaScript/TypeScript ecosystem (React, Next.js, Node.js). Currently developing automated chatbot
+solutions as an intern, with a proven track record of rapid prototyping and award-winning hackathon
+projects. Actively expanding backend expertise with NestJS, Docker, and AWS to build scalable, cloud-
+native architectures.
 
 ###
 
