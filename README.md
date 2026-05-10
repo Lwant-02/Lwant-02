@@ -83,28 +83,7 @@ I enjoy building apps that solve real community problems and improve user experi
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
 </div>
 
-###
 
-<h2 align="left">Social Platforms</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sai-naw-main-03b655281/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/1KAi1dVAsy/?mibextid=wwXIfr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/lwant02?igsh=NHZmYWVuenJtNmZ2&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="jaimain671@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 
 
 
