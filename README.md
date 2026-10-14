@@ -1,6 +1,6 @@
 # Hey, I’m Lwant 👋
 
-My name is Sai Naw Main. I’m a software engineer building web and macOS apps that make everyday life easier.
+My name is Sai Naw Main. I’m a software engineer building web apps and macOS apps that make everyday life easier.
 
 ### Projects
 
